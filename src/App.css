@@ -10,15 +10,15 @@ html,body{
 
 h1{
   max-width: 940px;
-  font-size: 2.5em;
+  font-size: 2.5em;              
   font-family: Lato, sans-serif;
-  font-weight: 700;
-  line-height: 1.1;
+  font-weight: 700; /*el peso de la letra*/
+  line-height: 1.1; /*la separacion de las lineas*/
   margin: 40px 0;
 }
 
 .App{
-  min-height: 100vh;
+  min-height: 100vh; 
   display:flex;
   flex-wrap: wrap;         
   align-items: center;
